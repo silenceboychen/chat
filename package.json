@@ -10,5 +10,10 @@
     "socket.io"
   ],
   "author": "chenhao",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "path": "^0.12.7",
+    "socket.io": "^2.0.3"
+  }
 }

@@ -1,0 +1,17 @@
+{
+  "name": "chat",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "chenhao"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "socket.io"
+  ],
+  "homepage": "https://github.com/silenceboychen/chat",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.6.5"
+  }
+}
