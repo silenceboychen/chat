@@ -20,7 +20,6 @@ io.sockets.on('connection', (socket) => {
   });
   socket.on('createMessage', (message) => {
     messages.push(message);
-    console.log(messages);
     io.sockets.emit('messageAdded', message);
   })
 });
